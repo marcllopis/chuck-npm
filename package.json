@@ -1,0 +1,14 @@
+{
+  "name": "marc-test",
+  "version": "1.0.0",
+  "description": "just a test version of smth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "marc",
+  "license": "ISC",
+  "dependencies": {
+    "chucknorris-io": "^1.0.5"
+  }
+}
